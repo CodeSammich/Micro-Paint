@@ -8,6 +8,6 @@ Java Swing Painting Program in Processing
 Please make sure you have Processing installed: https://processing.org
 
 ### Contributors
-Emma Bernstein
-Max Kong
+Emma Bernstein  
+Max Kong  
 Samuel Zhang
