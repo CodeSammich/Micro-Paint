@@ -76,6 +76,6 @@ class GenTest {
    else if(grade < 93)
      return "SEMI-PASS ";
    else
-     return "GOOD. ASIAN-PASS ";
+     return "GOOD. PASS ";
  }
 }
